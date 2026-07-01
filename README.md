@@ -1,10 +1,10 @@
 # Data Analytics and Business Intelligence Portfolio
 
-Welcome to my data portfolio. This portfolio highlights my work across Power BI, SQL, PostgreSQL, and business intelligence reporting.
+Welcome to my data analytics portfolio.
 
-My projects focus on transforming raw data into clean reporting models, executive dashboards, and actionable insights that help businesses make smarter data driven decisions.
+This portfolio highlights my work across Power BI, SQL, PostgreSQL, and business intelligence reporting. My projects focus on transforming raw data into clean reporting models, executive dashboards, and actionable insights that help businesses make smarter data driven decisions.
 
-I specialize in dashboard development, SQL reporting views, KPI validation, data storytelling, and business intelligence solutions.
+I specialize in dashboard development, SQL reporting views, KPI validation, data storytelling, data visualization, and business intelligence solutions.
 
 ---
 
@@ -33,87 +33,99 @@ I specialize in dashboard development, SQL reporting views, KPI validation, data
 
 ---
 
-# Featured Portfolio Areas
+# Portfolio Repositories
 
-## Power BI Dashboard Portfolio
+## Power BI Portfolio
 
-This portfolio includes dashboard projects focused on sales, marketing, finance, profitability, and executive reporting. These projects demonstrate dashboard design, KPI development, data storytelling, interactive visuals, and business decision support.
+This portfolio includes dashboard projects focused on sales, marketing, finance, healthcare, job tracking, profitability, and executive reporting. These projects demonstrate dashboard design, KPI development, data storytelling, interactive visuals, and business decision support.
 
 [View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
 
-### Featured Power BI Projects
+## SQL Portfolio
 
-| Project | Focus |
-|---|---|
-| Professional Sales Dashboard | Sales performance, profit trends, product analysis, and geographic insights |
-| Google Analytics Dashboard | Website traffic, engagement, user behavior, campaigns, and digital marketing KPIs |
-| Profit and Loss Dashboard | Revenue, expenses, profitability, financial performance, and executive reporting |
-
----
-
-## SQL and PostgreSQL Portfolio
-
-This portfolio includes SQL projects focused on transforming raw database records into clean reporting views for analytics and dashboard development. These projects demonstrate PostgreSQL, data modeling, business logic, KPI validation, customer segmentation, supply chain analysis, and revenue anomaly detection.
+This portfolio includes SQL and PostgreSQL projects focused on transforming raw database records into clean reporting views for analytics and dashboard development. These projects demonstrate reporting views, data modeling, business logic, KPI validation, customer segmentation, supply chain analysis, and financial anomaly detection.
 
 [View SQL Portfolio](https://github.com/ashlynstrickland23/SQL_Portfolio)
 
-### Featured SQL Projects
-
-| Project | Focus |
-|---|---|
-| Retail Customer Segmentation SQL | Customer behavior, RFM segmentation, revenue analysis, product profitability, and cohort retention |
-| Supply Chain Inventory Optimization SQL | Inventory health, supplier performance, warehouse analysis, stock risk, and purchase order delays |
-| Financial Revenue Anomaly Detection SQL | Revenue trends, anomaly detection, customer risk, refunds, disputes, duplicate payments, and renewal risk |
-
 ---
 
-# Featured Projects
+# Featured Power BI Projects
 
-## 1. Professional Sales Dashboard
+## Google Analytics Dashboard
 
-This Power BI project provides insights into global sales, profit, and performance trends across multiple business dimensions. It highlights sales by country, region, city, product category, product subcategory, and profitability trends over time.
+This Power BI dashboard visualizes website and digital marketing performance. It tracks sessions, users, engagement, traffic sources, conversion activity, campaign performance, geography, and user behavior.
 
-This dashboard is designed to help leaders understand sales performance, identify top performing areas, and make better business decisions.
+This project helps marketing teams understand which channels are driving traffic, how users are engaging, and where opportunities exist to improve digital performance.
+
+<img src="images/powerbi/google_analytics_dashboard.gif" width="900">
+
+[View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
+
+<br>
+
+## Profit and Loss Dashboard
+
+This Power BI dashboard focuses on financial performance, including revenue, expenses, profitability, and executive level financial reporting.
+
+This project helps leadership monitor financial health, compare performance over time, and understand the relationship between revenue, cost, and profit.
+
+<img src="images/powerbi/profit_loss_dashboard.gif" width="900">
+
+[View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
+
+<br>
+
+## Healthcare Dashboard
+
+This Power BI dashboard focuses on healthcare related performance reporting and executive level insights.
+
+This project demonstrates how healthcare data can be organized into a clear dashboard experience that supports operational visibility, KPI monitoring, and leadership review.
+
+<img src="images/powerbi/healthcare_dashboard.gif" width="900">
 
 [View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
 
 ---
 
-## 2. Google Analytics Dashboard
+# Featured SQL and PostgreSQL Projects
 
-This Power BI project visualizes Google Analytics data to track website performance, engagement, traffic sources, users, sessions, bounce rate, conversion activity, and digital marketing trends.
+## Retail Customer Segmentation SQL
 
-This dashboard is designed to help marketing teams understand audience behavior, campaign performance, and engagement patterns.
+This project presents a simulated retail analytics engagement where raw transactional data is transformed into a clean PostgreSQL reporting layer for executive business intelligence.
 
-[View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
+The analysis uses SQL to segment customers, track monthly sales performance, evaluate product profitability, measure customer retention, and validate dashboard ready reporting views. The dataset includes 5,000 customers, 50,000 orders, 100,140 order item rows, 100 products, warehouses, suppliers, and returns.
 
----
+The final reporting layer helps answer business questions such as which customer segments generate the most revenue, which products drive the most profit, how revenue changes month over month, and whether dashboard metrics match the source database.
 
-## 3. Retail Customer Segmentation SQL
-
-This SQL project transforms raw retail transactional data into clean PostgreSQL reporting views for executive business intelligence.
-
-The analysis includes 5,000 customers, 50,000 orders, 100,140 order item rows, product performance, customer segmentation, monthly revenue trends, cohort retention, and dashboard validation.
+<img src="images/sql/customer_segmentation_revenue_summary.png" width="900">
 
 [View SQL Project](https://github.com/ashlynstrickland23/SQL_Portfolio/tree/main/01_Retail_Customer_Segmentation_SQL)
 
----
+<br>
 
-## 4. Supply Chain Inventory Optimization SQL
+## Supply Chain Inventory Optimization SQL
 
-This SQL project transforms raw inventory, supplier, warehouse, and purchase order data into reporting views for operational and executive decision making.
+This project presents a simulated supply chain analytics engagement where raw inventory, supplier, warehouse, and purchase order data is transformed into a clean PostgreSQL reporting layer for operational and executive decision making.
 
-The analysis includes inventory health, excess stock, reorder needs, supplier delivery performance, warehouse inventory positions, delayed purchase orders, and validation checks.
+The analysis uses SQL to monitor inventory health, identify excess stock, detect reorder needs, evaluate supplier delivery performance, review delayed purchase orders, compare warehouse inventory positions, and validate reporting accuracy. The dataset includes 30 suppliers, 10 warehouses, 250 products, 452,500 inventory snapshot rows, 20,000 purchase orders, and product level purchase order details.
+
+The final reporting layer helps answer business questions such as which products are at inventory risk, which suppliers are causing delivery delays, where inventory value is concentrated, which warehouses need review, and whether reporting views reconcile with the source database.
+
+<img src="images/sql/inventory_health_summary.png" width="900">
 
 [View SQL Project](https://github.com/ashlynstrickland23/SQL_Portfolio/tree/main/02_Supply_Chain_Inventory_Optimization_SQL)
 
----
+<br>
 
-## 5. Financial Revenue Anomaly Detection SQL
+## Financial Revenue Anomaly Detection SQL
 
-This SQL project transforms raw customer, subscription, invoice, payment, refund, and dispute data into reporting views for executive finance reporting.
+This project presents a simulated finance and subscription revenue analytics engagement where raw customer, subscription, invoice, payment, refund, and dispute data is transformed into a clean PostgreSQL reporting layer for executive finance reporting.
 
-The analysis includes monthly revenue monitoring, anomaly detection, customer financial risk, refund and dispute exposure, duplicate payment detection, renewal risk, and financial validation.
+The analysis uses SQL to monitor monthly revenue, detect unusual revenue movement, identify high risk customers, review refund and dispute exposure, flag duplicate payments, assess subscription renewal risk, and validate financial reporting accuracy. The dataset includes 10,000 customers, 15,000 subscriptions, 80,000 invoices, 58,534 payments, 10,017 refunds, and 1,475 payment disputes.
+
+The final reporting layer helps answer business questions such as where revenue is increasing or declining, which customers present financial risk, where refund and dispute exposure is highest, which subscriptions may be at renewal risk, and whether financial reporting views reconcile with the source database.
+
+<img src="images/sql/monthly_revenue_anomaly_summary.png" width="900">
 
 [View SQL Project](https://github.com/ashlynstrickland23/SQL_Portfolio/tree/main/03_Financial_Revenue_Anomaly_Detection_SQL)
 
@@ -121,9 +133,33 @@ The analysis includes monthly revenue monitoring, anomaly detection, customer fi
 
 # Coming Soon
 
+## Amazon QuickSight and Power BI Dashboard Integration
+
 The next phase of this portfolio will connect PostgreSQL reporting views to visualization tools such as Amazon QuickSight and Power BI.
 
+These datasets are designed to support dashboards for:
+
+| Area | Dashboard Focus |
+|---|---|
+| Retail Analytics | Customer segmentation, revenue trends, product profitability, and retention |
+| Supply Chain Analytics | Inventory health, supplier performance, stock risk, and warehouse reporting |
+| Finance Analytics | Revenue anomaly detection, customer risk, refunds, disputes, and renewal risk |
+
 This will demonstrate the full workflow from raw data, to SQL reporting views, to interactive executive dashboards.
+
+---
+
+# Portfolio Summary
+
+This portfolio demonstrates both sides of business intelligence work:
+
+| Area | What It Shows |
+|---|---|
+| Power BI | Dashboard design, data visualization, KPI reporting, and executive storytelling |
+| SQL and PostgreSQL | Data preparation, reporting views, data validation, and business logic |
+| BI Workflow | Turning raw data into trusted reporting models and dashboard ready outputs |
+
+My goal is to create reporting solutions that are clear, accurate, and useful for decision makers.
 
 ---
 
