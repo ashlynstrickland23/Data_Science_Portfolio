@@ -57,7 +57,7 @@ This Power BI dashboard visualizes website and digital marketing performance. It
 
 This project helps marketing teams understand which channels are driving traffic, how users are engaging, and where opportunities exist to improve digital performance.
 
-<img src="images/powerbi/google_analytics_dashboard.gif" width="900">
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Google_Analytics_Dashboard/images/Untitled%20design%20%281%29.gif" width="900">
 
 [View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
 
@@ -69,7 +69,7 @@ This Power BI dashboard focuses on financial performance, including revenue, exp
 
 This project helps leadership monitor financial health, compare performance over time, and understand the relationship between revenue, cost, and profit.
 
-<img src="images/powerbi/profit_loss_dashboard.gif" width="900">
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Profit_Loss_Dashboard/Profit_Loss_Dashboard/images/PNL%20gif.gif" width="900">
 
 [View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
 
@@ -81,7 +81,7 @@ This Power BI dashboard focuses on healthcare related performance reporting and 
 
 This project demonstrates how healthcare data can be organized into a clear dashboard experience that supports operational visibility, KPI monitoring, and leadership review.
 
-<img src="images/powerbi/healthcare_dashboard.gif" width="900">
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Healthcare_Dashboard/images/Healthcare%20gif.gif" width="900">
 
 [View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
 
@@ -97,7 +97,7 @@ The analysis uses SQL to segment customers, track monthly sales performance, eva
 
 The final reporting layer helps answer business questions such as which customer segments generate the most revenue, which products drive the most profit, how revenue changes month over month, and whether dashboard metrics match the source database.
 
-<img src="images/sql/customer_segmentation_revenue_summary.png" width="900">
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/SQL_Portfolio/main/01_Retail_Customer_Segmentation_SQL/screenshots/Customer%20Segmentation%20Revenue%20Summary.png" width="900">
 
 [View SQL Project](https://github.com/ashlynstrickland23/SQL_Portfolio/tree/main/01_Retail_Customer_Segmentation_SQL)
 
@@ -111,7 +111,7 @@ The analysis uses SQL to monitor inventory health, identify excess stock, detect
 
 The final reporting layer helps answer business questions such as which products are at inventory risk, which suppliers are causing delivery delays, where inventory value is concentrated, which warehouses need review, and whether reporting views reconcile with the source database.
 
-<img src="images/sql/inventory_health_summary.png" width="900">
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/SQL_Portfolio/main/02_Supply_Chain_Inventory_Optimization_SQL/screenshots/Inventory%20Health%20Summary.png" width="900">
 
 [View SQL Project](https://github.com/ashlynstrickland23/SQL_Portfolio/tree/main/02_Supply_Chain_Inventory_Optimization_SQL)
 
@@ -125,7 +125,7 @@ The analysis uses SQL to monitor monthly revenue, detect unusual revenue movemen
 
 The final reporting layer helps answer business questions such as where revenue is increasing or declining, which customers present financial risk, where refund and dispute exposure is highest, which subscriptions may be at renewal risk, and whether financial reporting views reconcile with the source database.
 
-<img src="images/sql/monthly_revenue_anomaly_summary.png" width="900">
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/SQL_Portfolio/main/03_Financial_Revenue_Anomaly_Detection_SQL/screenshots/Monthly%20Revenue%20Anomaly%20Summary.png" width="900">
 
 [View SQL Project](https://github.com/ashlynstrickland23/SQL_Portfolio/tree/main/03_Financial_Revenue_Anomaly_Detection_SQL)
 
