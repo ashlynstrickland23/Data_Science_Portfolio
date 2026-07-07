@@ -2,13 +2,13 @@
 
 Welcome to my data analytics portfolio.
 
-This portfolio highlights my work across Power BI, SQL, PostgreSQL, and business intelligence reporting. My projects focus on transforming raw data into clean reporting models, executive dashboards, and actionable insights that help businesses make smarter data driven decisions.
+This portfolio highlights my work across Power BI, SQL, PostgreSQL, Python, machine learning, forecasting, and business intelligence reporting. My projects focus on transforming raw data into clean reporting models, executive dashboards, predictive insights, and actionable business recommendations that help organizations make smarter data driven decisions.
 
 ## About Me
 
-I’m Ashlyn Strickland, a Data Scientist and Business Intelligence Developer with a Master’s degree in Data Science and a Certified Data Scientist background.
+I’m Ashlyn Strickland, a Data Scientist, Data Engineer, and Business Intelligence Developer with a Master’s degree in Data Science and a Certified Data Scientist background.
 
-I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL data modeling, KPI validation, and executive analytics. My work focuses on transforming raw data into clean reporting models, dashboard ready datasets, and clear business insights that help organizations make smarter data driven decisions.
+I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL data modeling, Python analytics, KPI validation, forecasting, machine learning, and executive analytics. My work focuses on transforming raw data into clean reporting models, dashboard ready datasets, predictive outputs, and clear business insights that help organizations make smarter data driven decisions.
 
 ---
 
@@ -17,6 +17,12 @@ I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -34,6 +40,12 @@ I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL 
 ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-FF8C00?style=for-the-badge)
 ![Executive Reporting](https://img.shields.io/badge/Executive_Reporting-2E8B57?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4B0082?style=for-the-badge)
+![Python Analytics](https://img.shields.io/badge/Python_Analytics-3776AB?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)
+![Forecasting](https://img.shields.io/badge/Forecasting-FF1493?style=for-the-badge)
+![Churn Prediction](https://img.shields.io/badge/Churn_Prediction-2E8B57?style=for-the-badge)
+![Revenue at Risk](https://img.shields.io/badge/Revenue_at_Risk-DC143C?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-181717?style=for-the-badge)
 
 ---
 
@@ -50,6 +62,12 @@ This portfolio includes dashboard projects focused on sales, marketing, finance,
 This portfolio includes SQL and PostgreSQL projects focused on transforming raw database records into clean reporting views for analytics and dashboard development. These projects demonstrate reporting views, data modeling, business logic, KPI validation, customer segmentation, supply chain analysis, and financial anomaly detection.
 
 [View SQL Portfolio](https://github.com/ashlynstrickland23/SQL_Portfolio)
+
+## Python Business Analytics Portfolio
+
+This portfolio includes Python projects focused on data cleaning, automation, forecasting, machine learning, customer churn prediction, revenue trend analysis, and dashboard ready output creation. These projects demonstrate Python analytics workflows that support business intelligence, executive reporting, and predictive decision making.
+
+[View Python Portfolio](https://github.com/ashlynstrickland23/Python_Portfolio)
 
 ---
 
@@ -135,35 +153,70 @@ The final reporting layer helps answer business questions such as where revenue 
 
 ---
 
-# Coming Soon
+# Featured Python and Data Science Projects
 
-## Amazon QuickSight and Power BI Dashboard Integration
+## Messy Excel Data Cleaning and Reporting Automation
 
-The next phase of this portfolio will connect PostgreSQL reporting views to visualization tools such as Amazon QuickSight and Power BI.
+This project demonstrates how Python can be used to clean a messy Excel sales file and transform it into clean, dashboard ready reporting outputs. The workflow includes duplicate handling, missing value treatment, currency and date cleaning, data quality summaries, summary tables, and saved visuals.
 
-These datasets are designed to support dashboards for:
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/Python_Portfolio/main/01_Messy_Excel_Data_Cleaning/images/total_net_revenue_by_region.png" width="900">
 
-| Area | Dashboard Focus |
+[View Python Project](https://github.com/ashlynstrickland23/Python_Portfolio/tree/main/01_Messy_Excel_Data_Cleaning)
+
+<br>
+
+## Sales Forecasting and Revenue Trend Analysis
+
+This project uses Python to analyze 8,574 sales transactions across 36 months, create time series features, identify revenue trends and seasonality, compare forecasting models, and generate a six month future revenue forecast.
+
+The workflow demonstrates moving averages, month over month growth, lag features, regression modeling, Random Forest modeling, forecast accuracy metrics, and dashboard ready output files.
+
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/Python_Portfolio/main/02_Sales_Forecasting/images/monthly_revenue_trend_with_moving_averages.png" width="900">
+
+[View Python Project](https://github.com/ashlynstrickland23/Python_Portfolio/tree/main/02_Sales_Forecasting)
+
+<br>
+
+## Customer Churn Prediction and Retention Risk Analysis
+
+This project uses Python and machine learning to analyze 10,000 customer records, predict churn risk, estimate revenue at risk, identify churn drivers, and create retention priority outputs.
+
+The workflow demonstrates customer lifetime value, risk scoring, retention segmentation, Logistic Regression, Random Forest, Gradient Boosting, model evaluation, confusion matrix analysis, and feature importance reporting.
+
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/Python_Portfolio/main/03_Customer_Churn_Prediction/images/top_churn_prediction_drivers.png" width="900">
+
+[View Python Project](https://github.com/ashlynstrickland23/Python_Portfolio/tree/main/03_Customer_Churn_Prediction)
+
+---
+
+# Business Problems I Solve
+
+| Business Problem | Example Solution |
 |---|---|
-| Retail Analytics | Customer segmentation, revenue trends, product profitability, and retention |
-| Supply Chain Analytics | Inventory health, supplier performance, stock risk, and warehouse reporting |
-| Finance Analytics | Revenue anomaly detection, customer risk, refunds, disputes, and renewal risk |
-
-This will demonstrate the full workflow from raw data, to SQL reporting views, to interactive executive dashboards.
+| Leaders need clear KPI visibility | Power BI dashboards and executive reporting |
+| Raw database records need to become dashboard ready datasets | SQL reporting views and PostgreSQL data modeling |
+| Metrics need to be validated against source data | SQL validation queries and data quality checks |
+| Messy Excel files need to be cleaned before reporting | Python data cleaning and automation |
+| Revenue needs to be analyzed and forecasted | Python forecasting and trend analysis |
+| Customer churn risk needs to be identified | Python machine learning and retention risk scoring |
+| Revenue at risk needs to be prioritized | Churn prediction, risk bands, and retention priority outputs |
+| Reporting needs to become less manual | Python, SQL, and Power BI workflow automation |
 
 ---
 
 # Portfolio Summary
 
-This portfolio demonstrates both sides of business intelligence work:
+This portfolio demonstrates the full analytics workflow from raw data to business action.
 
 | Area | What It Shows |
 |---|---|
 | Power BI | Dashboard design, data visualization, KPI reporting, and executive storytelling |
 | SQL and PostgreSQL | Data preparation, reporting views, data validation, and business logic |
-| BI Workflow | Turning raw data into trusted reporting models and dashboard ready outputs |
+| Python | Data cleaning, automation, forecasting, machine learning, and dashboard ready outputs |
+| Business Intelligence | Turning raw data into trusted reporting models and executive insights |
+| Data Science | Building predictive models, evaluating performance, and identifying business risk |
 
-My goal is to create reporting solutions that are clear, accurate, and useful for decision makers.
+My goal is to create reporting and analytics solutions that are clear, accurate, useful, and connected to real business decisions.
 
 ---
 
@@ -171,7 +224,7 @@ My goal is to create reporting solutions that are clear, accurate, and useful fo
 
 Thank you for viewing my portfolio.
 
-I am open to business intelligence, dashboard development, SQL reporting, and data analytics opportunities.
+I am open to business intelligence, dashboard development, SQL reporting, Python analytics, data science, data engineering, and data analytics opportunities.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ashlyn-strickland-67023b363">
