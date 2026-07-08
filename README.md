@@ -2,19 +2,20 @@
 
 Welcome to my data science portfolio.
 
-This portfolio highlights my work across Power BI, SQL, PostgreSQL, Python, R, machine learning, forecasting, risk modeling, and business intelligence reporting. My projects focus on transforming raw data into clean reporting models, executive dashboards, predictive insights, and actionable business recommendations that help organizations make smarter data driven decisions.
+This portfolio highlights my work across Power BI, Tableau, SQL, PostgreSQL, Python, R, machine learning, forecasting, risk modeling, and business intelligence reporting. My projects focus on transforming raw data into clean reporting models, executive dashboards, predictive insights, and actionable business recommendations that help organizations make smarter data driven decisions.
 
 ## About Me
 
-I’m Ashlyn Strickland, a Data Scientist, Data Engineer, and Business Intelligence Developer with a Master’s degree in Data Science and a Certified Data Scientist background.
+I’m Ashlyn Strickland, an Analytics Engineer with a Master’s degree in Data Science and a Certified Data Scientist background.
 
-I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL data modeling, Python analytics, R analytics, KPI validation, forecasting, machine learning, risk modeling, and executive reporting. My work focuses on transforming raw data into clean reporting models, dashboard ready datasets, predictive outputs, and clear business insights that help organizations make smarter data driven decisions.
+I specialize in Power BI dashboard development, Tableau dashboard design, SQL reporting views, PostgreSQL data modeling, Python analytics, R analytics, KPI validation, forecasting, machine learning, risk modeling, and executive reporting. My work focuses on transforming raw data into clean reporting models, dashboard ready datasets, predictive outputs, and clear business insights that help organizations make smarter data driven decisions.
 
 ---
 
 ## 🛠️ Tools Used
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,6 +37,7 @@ I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL 
 
 ![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-228B22?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-1E90FF?style=for-the-badge)
+![Tableau Dashboards](https://img.shields.io/badge/Tableau_Dashboards-E97627?style=for-the-badge)
 ![SQL Reporting Views](https://img.shields.io/badge/SQL_Reporting_Views-6A0DAD?style=for-the-badge)
 ![KPI Validation](https://img.shields.io/badge/KPI_Validation-DC143C?style=for-the-badge)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-008080?style=for-the-badge)
@@ -55,6 +57,7 @@ I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL 
 | Portfolio | Focus |
 |---|---|
 | [Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio) | Dashboard design, KPI reporting, executive views, financial reporting, sales analytics, and business intelligence visuals |
+| [Tableau Portfolio](https://github.com/ashlynstrickland23/Tableau_Portfolio) | Tableau dashboard design, interactive dashboards, sales analysis, profitability analysis, order priority analysis, and relationship manager performance reporting |
 | [SQL Portfolio](https://github.com/ashlynstrickland23/SQL_Portfolio) | PostgreSQL reporting views, business logic, KPI validation, customer segmentation, supply chain analysis, and financial anomaly detection |
 | [Python Business Analytics Portfolio](https://github.com/ashlynstrickland23/Python_Portfolio) | Python data cleaning, automation, forecasting, machine learning, churn prediction, and dashboard ready output creation |
 | [R Portfolio](https://github.com/ashlynstrickland23/R_Portfolio) | R analytics projects focused on customer churn, credit risk modeling, healthcare readmission risk, classification, statistical analysis, feature importance, and dashboard ready outputs |
@@ -75,6 +78,23 @@ This project demonstrates dashboard design, data modeling, DAX, KPI reporting, a
 [View Sales Performance Dashboard Project](https://github.com/ashlynstrickland23/PowerBI_Portfolio/tree/main/Sales_Performance_Dashboard)
 
 [View Full Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
+
+---
+
+## Tableau Featured Project  
+### Superstore Sales and Profitability Dashboard
+
+This Tableau dashboard analyzes sales performance, profitability, discounts, customer profitability, subcategory performance, and geographic trends using Tableau Superstore sample data.
+
+The project includes a location based profit dashboard, KPI trend dashboard, and sales versus profit analysis. It highlights key metrics such as $2.3M in total sales, $286.4K in total profit, 15.62% average discount, 20.00% median discount, and a 12.47% profit ratio.
+
+This project demonstrates Tableau dashboard design, geographic analysis, KPI reporting, customer profitability analysis, profit ratio analysis, trend analysis, and business storytelling.
+
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/Tableau_Portfolio/main/01_Superstore_Sales_Profitability_Tableau/images/profits_by_location.png" width="900">
+
+[View Superstore Sales and Profitability Tableau Project](https://github.com/ashlynstrickland23/Tableau_Portfolio/tree/main/01_Superstore_Sales_Profitability_Tableau)
+
+[View Full Tableau Portfolio](https://github.com/ashlynstrickland23/Tableau_Portfolio)
 
 ---
 
@@ -131,16 +151,19 @@ The workflow demonstrates healthcare analytics, patient risk scoring, Logistic R
 
 | Business Problem | Example Solution |
 |---|---|
-| Leaders need clear KPI visibility | Power BI dashboards and executive reporting |
+| Leaders need clear KPI visibility | Power BI and Tableau dashboards with executive reporting |
 | Raw database records need to become dashboard ready datasets | SQL reporting views and PostgreSQL data modeling |
 | Metrics need to be validated against source data | SQL validation queries and data quality checks |
 | Messy Excel files need to be cleaned before reporting | Python data cleaning and automation |
 | Revenue needs to be analyzed and forecasted | Python forecasting and trend analysis |
+| Sales and profitability need to be explored visually | Tableau dashboards with maps, scatter plots, filters, and trend views |
+| Order priority or operations need performance visibility | Tableau order priority analysis and category performance reporting |
+| Sales teams need performance tracking | Tableau relationship manager dashboards with goals, bonuses, and profit ratios |
 | Customer churn risk needs to be identified | Python and R machine learning with retention risk scoring |
 | Credit or financial risk needs to be modeled | R credit risk modeling, default prediction, and approval recommendation outputs |
 | Healthcare readmission risk needs to be prioritized | R readmission risk modeling and care management recommendation outputs |
 | Revenue, loan value, or cost exposure needs to be prioritized | Risk bands, predictive scoring, and dashboard ready outputs |
-| Reporting needs to become less manual | Python, R, SQL, and Power BI workflow automation |
+| Reporting needs to become less manual | Python, R, SQL, Power BI, and Tableau workflow automation |
 
 ---
 
@@ -151,6 +174,7 @@ This portfolio demonstrates the full analytics workflow from raw data to busines
 | Area | What It Shows |
 |---|---|
 | Power BI | Dashboard design, data visualization, KPI reporting, and executive storytelling |
+| Tableau | Interactive dashboard design, sales analysis, profitability analysis, geographic analysis, order priority analysis, and performance reporting |
 | SQL and PostgreSQL | Data preparation, reporting views, data validation, and business logic |
 | Python | Data cleaning, automation, forecasting, machine learning, and dashboard ready outputs |
 | R | Statistical analysis, classification modeling, risk scoring, feature importance, and dashboard ready outputs |
@@ -165,7 +189,7 @@ My goal is to create reporting and analytics solutions that are clear, accurate,
 
 Thank you for viewing my portfolio.
 
-I am open to business intelligence, dashboard development, SQL reporting, Python analytics, R analytics, data science, data engineering, and data analytics opportunities.
+I am open to analytics engineering, business intelligence, dashboard development, Power BI reporting, Tableau dashboard development, SQL reporting, Python analytics, R analytics, data science, data engineering, and data analytics opportunities.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ashlyn-strickland-67023b363">
